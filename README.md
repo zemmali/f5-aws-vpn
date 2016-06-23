@@ -1,4 +1,4 @@
-# bigip_aws_vpn
+# f5_aws_vpn
 ## Example of using BIG-IP with AWS's IPSEC VPN 
 
 This solution demonstrates automating BIG-IPs (physical or virtual) to connect to AWS's built-in IPSEC VPN offering. It leverages Ansible and contains playbooks to:
